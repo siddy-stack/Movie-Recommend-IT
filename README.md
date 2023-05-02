@@ -13,3 +13,5 @@ headless = true\n\
 To run the app :
 web: sh setup.sh && streamlit run app.py
 
+You can get dataset from here :
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
